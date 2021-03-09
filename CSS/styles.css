@@ -1,0 +1,100 @@
+body {
+	margin: 0;
+	text-align: center;
+}
+
+h1 {
+	margin: 0;
+	font-size: 5.5rem;
+	font-family: 'Sacramento', cursive;
+}
+
+h2 {
+	font-size: 2.5rem;
+	font-family: 'Montserrat', sans-serif;
+	margin: 0;
+	padding-top: 30px;
+	padding-bottom: 50px;
+	text-align: center;
+}
+
+h3 {
+	margin: 0;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 1.3rem;
+	margin: 0;
+}
+
+h1, h2, h3 {
+	color: #6262a2;
+}
+
+p {
+	color: #40514E;
+	font-size: 0.9rem;
+	font-family: 'Merriweather', sans-serif;
+	margin-top: 10px;
+}
+
+hr {
+	border: dotted #e2e2e2 6px;
+	border-bottom: none;
+	width: 4%;
+	margin: 80px auto 60px;
+}
+
+.name {
+	text-shadow: 1px 1px 5px white;
+}
+
+.head-section {
+	padding: 200px 100px;
+	background-image: url('../images/beach.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.body-section {
+	background-color: #f8fffe;
+	text-align: justify;
+}
+
+.profile-pic {
+	border-radius: 100%;
+	width: 25%;
+	float: right;
+	margin-left: 20px;
+}
+
+.python-logo {
+	border-radius: 100%;
+	width: 25%;
+	float: left;
+	margin-right: 40px;
+}
+
+.html-css-logo {
+	border-radius: 10%;
+	width: 25%;
+	float: right;
+	margin-left: 40px;
+}
+
+.body-row {
+	width: 50%;
+	margin: 0 auto;
+	padding: 30px 0 60px;
+	line-height: 2;
+}
+
+.contact-me {
+	background-color: #66BFBF;
+	padding: 100px 0;
+	margin: 0;
+}
+
+.contact-me-paragraph {
+	margin: 0;
+	font-size: 2rem;
+}
